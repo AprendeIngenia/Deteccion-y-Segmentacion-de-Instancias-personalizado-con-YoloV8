@@ -12,12 +12,14 @@ Hola chicos en este repositorio encontraran la progrmación y los comandos compl
 
 - En el archivo [Comandos](https://github.com/AprendeIngenia/Deteccion-y-Segmentacion-de-Instancias-personalizado-con-YoloV8/blob/f076abca0dd57ea86710595aab997cd4a818c71b/Comandos.txt) encontraras todos los comandos utilizados para etiquetar tus imagenes, convertirlas de formato Json a Yolo y ejecutar el entrenamiento de tu red neuronal, recuerda que encuentras la explicacion y la programacion desde cero en este [video.](https://youtu.be/rk7zOBRJWCc)
 
-![image](https://github.com/AprendeIngenia/Deteccion-y-Segmentacion-de-Instancias-personalizado-con-YoloV8/assets/85022752/5daa66f9-a1f0-43c9-85d7-13035745a1b7)
+![image](https://github.com/AprendeIngenia/Deteccion-y-Segmentacion-de-Instancias-personalizado-con-YoloV8/assets/85022752/dd8ae036-50c1-48ea-bfe2-f977b2c56051)
 
 ### Detección y Segmentación en tiempo real:
 - Como primer paso debes descargar [Segment.py](https://github.com/AprendeIngenia/Deteccion-y-Segmentacion-de-Instancias-personalizado-con-YoloV8/blob/f076abca0dd57ea86710595aab997cd4a818c71b/Segment.py). 
 
 - La explicacion de cada linea de codigo utilizada en Segment.py la encuentras en el siguiente [video.](https://youtu.be/rk7zOBRJWCc)
+
+![image](https://github.com/AprendeIngenia/Deteccion-y-Segmentacion-de-Instancias-personalizado-con-YoloV8/assets/85022752/5daa66f9-a1f0-43c9-85d7-13035745a1b7)
 
 # Recuerda que puedes contribuir a que siga desarrollando:
 Simplemente suscribiendote a mi canal de YouTube:
